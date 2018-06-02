@@ -53,7 +53,7 @@ Download  .zip, .tar, .tar.gz or .tar compressed package, decompress it to targe
 
 ## Status
 
-The  project is working and is possible to search for the weather of cities in the US.  The graphs show the temperature, pressure and humidity for the last 5 days / everey 3 hours.
+The  project is working and is possible to search for the weather of cities in the US.  The graphs show the temperature, pressure and humidity for the last 5 days / every 3 hours.
 
 The store is binded to Redux Promise middleware to assure correct functioning of async Api calls.
 
