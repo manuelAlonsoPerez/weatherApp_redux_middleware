@@ -1,6 +1,6 @@
 ## Project Description:
 
-This project creates a weather forecast service using [openweathermap](https://openweathermap.org/api "openweathermap") api. The graphs are build with [react-sparklines](https://www.npmjs.com/package/react-sparklines "react-sparklines") and the maps are implemented with [Google Maps Api](https://developers.google.com/maps/documentation/javascript/tutorial "Google Maps Api").
+This project creates a weather forecast service using [openweathermap](https://openweathermap.org/api "openweathermap") api. The graphs are built with [react-sparklines](https://www.npmjs.com/package/react-sparklines "react-sparklines") and the maps are implemented with [Google Maps Api](https://developers.google.com/maps/documentation/javascript/tutorial "Google Maps Api").
 
 The project is done together with the great React and Redux turorial from Stephen Grider:
 
